@@ -1,2 +1,27 @@
-# PluginTool
-Document some plugin tools and encapsulate them as usable tools
+## ToolComponents
+
+##### 1. 仓库说明
+
+> 此代码仓库为后端开发积累的项目组件，以及各种功能的封装，方便进行查询或项目集成使用
+
+
+- 代码使用语言不限，以Python语言为主
+- 功能代码的封装，不限于模块、函数的封装
+- 共享代码进行查询
+
+##### 2. 提交注意
+
+- 提交功能完整，可进行单独使用
+- 提交功能添加注释，并附带README
+- 提交功能需要解释功能使用方式
+- 提交功能需要说明依赖环境
+- 提交功能如有参考，添加参考链接
+
+##### 3. 代码目录
+
+- CoroutinesTool -- 协程工具模块
+- UnzipTool  -- 解压工具模块
+- MySQLTool  -- mysql基础封装模块
+- RedisTool  -- redis基础封装模块
+- UntilTool  -- 工具包封装模块
+- SensitiveTool  -- 关键词匹配封装模块
